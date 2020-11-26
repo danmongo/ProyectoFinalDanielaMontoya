@@ -1,0 +1,546 @@
+Create table CO2(
+CountryName char(70),
+CountryCode char(4),
+IndicatorName char(80),
+IndicatorCode char(80),
+A1970 numeric(15,7),
+A1971 numeric(15,7),
+A1972 numeric(15,7),
+A1973 numeric(15,7),
+A1974 numeric(15,7),
+A1975 numeric(15,7),
+A1976 numeric(15,7),
+A1977 numeric(15,7),
+A1978 numeric(15,7),
+A1979 numeric(15,7),
+A1980 numeric(15,7),
+A1981 numeric(15,7),
+A1982 numeric(15,7),
+A1983 numeric(15,7),
+A1984 numeric(15,7),
+A1985 numeric(15,7),
+A1986 numeric(15,7),
+A1987 numeric(15,7),
+A1988 numeric(15,7),
+A1989 numeric(15,7),
+A1990 numeric(15,7),
+A1991 numeric(15,7),
+A1992 numeric(15,7),
+A1993 numeric(15,7),
+A1994 numeric(15,7),
+A1995 numeric(15,7),
+A1996 numeric(15,7),
+A1997 numeric(15,7),
+A1998 numeric(15,7),
+A1999 numeric(15,7),
+A2000 numeric(15,7),
+A2001 numeric(15,7),
+A2002 numeric(15,7),
+A2003 numeric(15,7),
+A2004 numeric(15,7),
+A2005 numeric(15,7),
+A2006 numeric(15,7),
+A2007 numeric(15,7),
+A2008 numeric(15,7),
+A2009 numeric(15,7),
+A2010 numeric(15,7),
+A2011 numeric(15,7),
+A2012 numeric(15,7));
+
+Create table GDP(
+CountryName char(80),
+CountryCode char(4),
+IndicatorName char(80),
+IndicatorCode char(80),
+A1970 numeric(15,7),
+A1971 numeric(15,7),
+A1972 numeric(15,7),
+A1973 numeric(15,7),
+A1974 numeric(15,7),
+A1975 numeric(15,7),
+A1976 numeric(15,7),
+A1977 numeric(15,7),
+A1978 numeric(15,7),
+A1979 numeric(15,7),
+A1980 numeric(15,7),
+A1981 numeric(15,7),
+A1982 numeric(15,7),
+A1983 numeric(15,7),
+A1984 numeric(15,7),
+A1985 numeric(15,7),
+A1986 numeric(15,7),
+A1987 numeric(15,7),
+A1988 numeric(15,7),
+A1989 numeric(15,7),
+A1990 numeric(15,7),
+A1991 numeric(15,7),
+A1992 numeric(15,7),
+A1993 numeric(15,7),
+A1994 numeric(15,7),
+A1995 numeric(15,7),
+A1996 numeric(15,7),
+A1997 numeric(15,7),
+A1998 numeric(15,7),
+A1999 numeric(15,7),
+A2000 numeric(15,7),
+A2001 numeric(15,7),
+A2002 numeric(15,7),
+A2003 numeric(15,7),
+A2004 numeric(15,7),
+A2005 numeric(15,7),
+A2006 numeric(15,7),
+A2007 numeric(15,7),
+A2008 numeric(15,7),
+A2009 numeric(15,7),
+A2010 numeric(15,7),
+A2011 numeric(15,7),
+A2012 numeric(15,7));
+
+Create table anio1970 as
+select co2.CountryName, co2.CountryCode, co2.A1970 as co2, gdp.A1970 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1971 as
+select co2.CountryName, co2.CountryCode, co2.A1971 as co2, gdp.A1971 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1972 as
+select co2.CountryName, co2.CountryCode, co2.A1972 as co2, gdp.A1972 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1973 as
+select co2.CountryName, co2.CountryCode, co2.A1973 as co2, gdp.A1973 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1974 as
+select co2.CountryName, co2.CountryCode, co2.A1974 as co2, gdp.A1974 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1975 as
+select co2.CountryName, co2.CountryCode, co2.A1975 as co2, gdp.A1975 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1976 as
+select co2.CountryName, co2.CountryCode, co2.A1976 as co2, gdp.A1976 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1977 as
+select co2.CountryName, co2.CountryCode, co2.A1977 as co2, gdp.A1977 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1978 as
+select co2.CountryName, co2.CountryCode, co2.A1978 as co2, gdp.A1978 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1979 as
+select co2.CountryName, co2.CountryCode, co2.A1979 as co2, gdp.A1979 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1980 as
+select co2.CountryName, co2.CountryCode, co2.A1980 as co2, gdp.A1980 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1981 as
+select co2.CountryName, co2.CountryCode, co2.A1981 as co2, gdp.A1981 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1982 as
+select co2.CountryName, co2.CountryCode, co2.A1982 as co2, gdp.A1982 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1983 as
+select co2.CountryName, co2.CountryCode, co2.A1983 as co2, gdp.A1983 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1984 as
+select co2.CountryName, co2.CountryCode, co2.A1984 as co2, gdp.A1984 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1985 as
+select co2.CountryName, co2.CountryCode, co2.A1985 as co2, gdp.A1985 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1986 as
+select co2.CountryName, co2.CountryCode, co2.A1986 as co2, gdp.A1986 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1987 as
+select co2.CountryName, co2.CountryCode, co2.A1988 as co2, gdp.A1987 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1988 as
+select co2.CountryName, co2.CountryCode, co2.A1988 as co2, gdp.A1988 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1989 as
+select co2.CountryName, co2.CountryCode, co2.A1989 as co2, gdp.A1989 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1990 as
+select co2.CountryName, co2.CountryCode, co2.A1990 as co2, gdp.A1990 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1991 as
+select co2.CountryName, co2.CountryCode, co2.A1991 as co2, gdp.A1991 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1992 as
+select co2.CountryName, co2.CountryCode, co2.A1992 as co2, gdp.A1992 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1993 as
+select co2.CountryName, co2.CountryCode, co2.A1993 as co2, gdp.A1993 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1994 as
+select co2.CountryName, co2.CountryCode, co2.A1994 as co2, gdp.A1994 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1995 as
+select co2.CountryName, co2.CountryCode, co2.A1995 as co2, gdp.A1995 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1996 as
+select co2.CountryName, co2.CountryCode, co2.A1996 as co2, gdp.A1996 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1997 as
+select co2.CountryName, co2.CountryCode, co2.A1998 as co2, gdp.A1997 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1998 as
+select co2.CountryName, co2.CountryCode, co2.A1998 as co2, gdp.A1998 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio1999 as
+select co2.CountryName, co2.CountryCode, co2.A1999 as co2, gdp.A1999 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2000 as
+select co2.CountryName, co2.CountryCode, co2.A2000 as co2, gdp.A2000 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2001 as
+select co2.CountryName, co2.CountryCode, co2.A2001 as co2, gdp.A2001 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2002 as
+select co2.CountryName, co2.CountryCode, co2.A2002 as co2, gdp.A2002 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2003 as
+select co2.CountryName, co2.CountryCode, co2.A2003 as co2, gdp.A2003 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2004 as
+select co2.CountryName, co2.CountryCode, co2.A2004 as co2, gdp.A2004 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2005 as
+select co2.CountryName, co2.CountryCode, co2.A2005 as co2, gdp.A2005 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2006 as
+select co2.CountryName, co2.CountryCode, co2.A2006 as co2, gdp.A2006 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2007 as
+select co2.CountryName, co2.CountryCode, co2.A2008 as co2, gdp.A2007 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2008 as
+select co2.CountryName, co2.CountryCode, co2.A2008 as co2, gdp.A2008 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2009 as
+select co2.CountryName, co2.CountryCode, co2.A2009 as co2, gdp.A2009 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2010 as
+select co2.CountryName, co2.CountryCode, co2.A2010 as co2, gdp.A2010 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2011 as
+select co2.CountryName, co2.CountryCode, co2.A2011 as co2, gdp.A2011 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+Create table anio2012 as
+select co2.CountryName, co2.CountryCode, co2.A2012 as co2, gdp.A2012 as gdp
+from co2, gdp
+where co2.CountryName=gdp.CountryName;
+
+ALTER TABLE anio1970 ADD anio char(4) default 1970;
+
+ALTER TABLE anio1971 ADD anio char(4) default 1971;
+
+ALTER TABLE anio1972 ADD anio char(4) default 1972;
+
+ALTER TABLE anio1973 ADD anio char(4) default 1973;
+
+ALTER TABLE anio1974 ADD anio char(4) default 1974;
+
+ALTER TABLE anio1975 ADD anio char(4) default 1975;
+
+ALTER TABLE anio1976 ADD anio char(4) default 1976;
+
+ALTER TABLE anio1977 ADD anio char(4) default 1977;
+
+ALTER TABLE anio1978 ADD anio char(4) default 1978;
+
+ALTER TABLE anio1979 ADD anio char(4) default 1979;
+
+ALTER TABLE anio1980 ADD anio char(4) default 1980;
+
+ALTER TABLE anio1981 ADD anio char(4) default 1981;
+
+ALTER TABLE anio1982 ADD anio char(4) default 1982;
+
+ALTER TABLE anio1983 ADD anio char(4) default 1983;
+
+ALTER TABLE anio1984 ADD anio char(4) default 1984;
+
+ALTER TABLE anio1985 ADD anio char(4) default 1985;
+
+ALTER TABLE anio1986 ADD anio char(4) default 1986;
+
+ALTER TABLE anio1987 ADD anio char(4) default 1987;
+
+ALTER TABLE anio1988 ADD anio char(4) default 1988;
+
+ALTER TABLE anio1989 ADD anio char(4) default 1989;
+
+ALTER TABLE anio1990 ADD anio char(4) default 1990;
+
+ALTER TABLE anio1991 ADD anio char(4) default 1991;
+
+ALTER TABLE anio1992 ADD anio char(4) default 1992;
+
+ALTER TABLE anio1993 ADD anio char(4) default 1993;
+
+ALTER TABLE anio1994 ADD anio char(4) default 1994;
+
+ALTER TABLE anio1995 ADD anio char(4) default 1995;
+
+ALTER TABLE anio1996 ADD anio char(4) default 1996;
+
+ALTER TABLE anio1997 ADD anio char(4) default 1997;
+
+ALTER TABLE anio1998 ADD anio char(4) default 1998;
+
+ALTER TABLE anio1999 ADD anio char(4) default 1999;
+
+ALTER TABLE anio2000 ADD anio char(4) default 2000;
+
+ALTER TABLE anio2001 ADD anio char(4) default 2001;
+
+ALTER TABLE anio2002 ADD anio char(4) default 2002;
+
+ALTER TABLE anio2003 ADD anio char(4) default 2003;
+
+ALTER TABLE anio2004 ADD anio char(4) default 2004;
+
+ALTER TABLE anio2005 ADD anio char(4) default 2005;
+
+ALTER TABLE anio2006 ADD anio char(4) default 2006;
+
+ALTER TABLE anio2007 ADD anio char(4) default 2007;
+
+ALTER TABLE anio2008 ADD anio char(4) default 2008;
+
+ALTER TABLE anio2009 ADD anio char(4) default 2009;
+
+ALTER TABLE anio2010 ADD anio char(4) default 2010;
+
+ALTER TABLE anio2011 ADD anio char(4) default 2011;
+
+ALTER TABLE anio2012 ADD anio char(4) default 2012;
+
+Create table TablasJuntos(
+countryname char(80),
+countrycode char(4),
+co2 numeric(15,7),
+gdp numeric(15,7),
+anio char(4));
+
+
+Create table Co2vsGdp as(
+Select countryname, countrycode, co2, gdp, anio
+from TablasJuntos
+where (countryname='Argentina' or countryname='Austria' 
+or countryname='Australia' or countryname='Burundi' 
+or countryname='Bélgica' or countryname='Benin' 
+or countryname='BurkinaFaso' or countryname='Bangladesh' 
+or countryname='Belice' or countryname='Bolivia' 
+or countryname='Brasil' or countryname='BruneiDarralam' 
+or countryname='Botswana' or countryname='RepublicaCentroafricana' 
+or countryname='Canadá' or countryname='Suiza' 
+or countryname='Chile' or countryname='China' 
+or countryname='Camerún' or countryname='Colombia' 
+or countryname='CostaRica' or countryname='Cuba' 
+or countryname='Alemania' or countryname='Dinamarca' 
+or countryname='RepúblicaDominicana' or countryname='Argelia' 
+or countryname='Ecuador' or countryname='España' 
+or countryname='Finlandia' or countryname='Fiji' 
+or countryname='Francia' or countryname='Gabón'
+or countryname='ReinoUnido' or countryname='Georgia'
+or countryname='Ghana' or countryname='Gambia' or countryname='Guinea-Bissau'
+or countryname='Grecia' or countryname='Guatemala' or countryname='Guyana'
+or countryname='Honduras' or countryname='Haití' or countryname='Indonesia'
+or countryname='India' or countryname='Irlanda' or countryname='Iraq'
+or countryname='Islandia' or countryname='Israel' or countryname='Italia'
+or countryname='Jordania' or countryname='Japón' or countryname='Kenya'
+or countryname='SriLanka' or countryname='Lesotho' or countryname='Luxemburgo'
+or countryname='Marruecos' or countryname='Madagascar' or countryname='México'
+or countryname='Malí' or countryname='Lesotho' or countryname='Bangladesh' or countryname='Mauritania'
+or countryname='Malawi' or countryname='Malasia' or countryname='Níger'
+or countryname='Nigeria' or countryname='Nicaragua'
+or countryname='PaísesBajos' or countryname='Noruega'
+or countryname='Nepal' or countryname='NuevaZelandia'
+or countryname='Omán' or countryname='Pakistán' or countryname='Panamá'
+or countryname='Perú' or countryname='Filipinas'
+or countryname='PapuaNuevaGuinea' or countryname='PuertoRico'
+or countryname='Paraguay' or countryname='Rwanda'
+or countryname='Sudán' or countryname='Senegal' or countryname='SierraLeona'
+or countryname='ElSalvador' or countryname='Suecia' or countryname='Eswatini'
+or countryname='Chad' or countryname='Togo' or countryname='Tailandia'
+or countryname='Túnez' or countryname='Turquía' or countryname='Uganda'
+or countryname='Ucrania' or countryname='Uruguay' or countryname='EstadosUnidos'
+or countryname='Venezuela' or countryname='Zambia' or countryname='Zimbabwe'
+ )
+order by (countryname, anio)); 
+
+create table Brasil as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where countryname='Brasil'
+order by (tablasjuntos.anio));
+
+create table Alemania as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where countryname='Alemania'
+order by (tablasjuntos.anio));
+
+create table Mexico as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where countryname='México'
+order by (tablasjuntos.anio));
+
+create table India as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where countryname='India'
+order by (tablasjuntos.anio));
+
+create table China as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where countryname='China'
+order by (tablasjuntos.anio));
+
+create table Sudán as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where countryname='Sudán'
+order by (tablasjuntos.anio));
+
+create table Australia as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where countryname='Australia' 
+order by (tablasjuntos.anio));
+
+create table Bangladesh as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where countryname='Bangladesh'
+order by (tablasjuntos.anio));
+
+create table USA as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where countryname='EstadosUnidos'
+order by (tablasjuntos.anio));
+
+create table Spain as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where countryname='España'
+order by (tablasjuntos.anio));
+
+create table SomePaises as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where (countryname='Brasil' or countryname='China' or countryname='Sudán' or countryname='Australia' or countryname='Bangladesh' or countryname='India' or countryname='EstadosUnidos' or countryname='Alemania' or countryname='México' or countryname='España')
+order by (tablasjuntos.countryname, tablasjuntos.anio));
+
+create table SomePaisesen1970s as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where (countryname='Brasil' or countryname='China' or countryname='Sudán' or countryname='Australia' or countryname='Bangladesh' or countryname='India' or countryname='EstadosUnidos' or countryname='Alemania' or countryname='México' or countryname='España')
+and (anio='1970' or anio='1971' or anio='1972' or anio='1973' or anio='1974' or anio='1975' or anio='1976' or anio='1977' or anio='1978' or anio='1979')
+order by (tablasjuntos.countryname, tablasjuntos.anio));
+
+create table SomePaisesen1980s as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where (countryname='Brasil' or countryname='China' or countryname='Sudán' or countryname='Australia' or countryname='Bangladesh' or countryname='India' or countryname='EstadosUnidos' or countryname='Alemania' or countryname='México' or countryname='España')
+and (anio='1980' or anio='1981' or anio='1982' or anio='1983' or anio='1984' or anio='1985' or anio='1986' or anio='1987' or anio='1988' or anio='1989')
+order by (tablasjuntos.countryname, tablasjuntos.anio));
+
+create table SomePaisesen1990s as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where (countryname='Brasil' or countryname='China' or countryname='Sudán' or countryname='Australia' or countryname='Bangladesh' or countryname='India' or countryname='EstadosUnidos' or countryname='Alemania' or countryname='México' or countryname='España')
+and (anio='1990' or anio='1991' or anio='1992' or anio='1993' or anio='1994' or anio='1995' or anio='1996' or anio='1997' or anio='1998' or anio='1999')
+order by (tablasjuntos.countryname, tablasjuntos.anio));
+
+create table SomePaisesen2000s as(
+select tablasjuntos.countryname, tablasjuntos.countrycode, tablasjuntos.co2 as CO2, tablasjuntos.gdp as GDP, tablasjuntos.anio as Anio
+from tablasjuntos
+where (countryname='Brasil' or countryname='China' or countryname='Sudán' or countryname='Australia' or countryname='Bangladesh' or countryname='India' or countryname='EstadosUnidos' or countryname='Alemania' or countryname='México' or countryname='España')
+and (anio='2000' or anio='2001' or anio='2002' or anio='2003' or anio='2004' or anio='2005' or anio='2006' or anio='2007' or anio='2008' or anio='2009' or anio='2010' or anio='2011' or anio='2012')
+order by (tablasjuntos.countryname, tablasjuntos.anio));
