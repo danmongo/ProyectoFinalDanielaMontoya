@@ -1,0 +1,264 @@
+countryname,countrycode,co2,gdp,anio
+Afganistán                                                            ,AFG ,11635.6594000,,1995
+Angola                                                                ,AGO ,48230.2986400,397.1794508,1995
+Albania                                                               ,ALB ,6421.5713000,750.6044492,1995
+Andorra                                                               ,AND ,0.0000000,18461.0648600,1995
+El mundo árabe                                                        ,ARB ,1229230.3980000,2073.1420760,1995
+Emiratos Árabes Unidos                                                ,ARE ,93904.0128700,27222.0358600,1995
+Argentina                                                             ,ARG ,275096.4092000,7408.7082380,1995
+Armenia                                                               ,ARM ,6710.3697000,456.3750487,1995
+Samoa Americana                                                       ,ASM ,22.8843444,,1995
+Antigua y Barbuda                                                     ,ATG ,391.9441100,8406.5929920,1995
+Australia                                                             ,AUS ,489294.1470000,20319.6306300,1995
+Austria                                                               ,AUT ,82480.6290000,30325.8495800,1995
+Curacao                                                               ,CUW ,0.0000000,,1995
+Azerbaiyán                                                            ,AZE ,42526.7923000,397.1981161,1995
+Burundi                                                               ,BDI ,2998.9438000,167.0989158,1995
+Bélgica                                                               ,BEL ,146712.3340000,28413.8264400,1995
+Benin                                                                 ,BEN ,45322.6660000,367.3873410,1995
+Burkina Faso                                                          ,BFA ,14072.2420000,235.8321973,1995
+Bangladesh                                                            ,BGD ,136508.3290000,329.4240846,1995
+Bulgaria                                                              ,BGR ,81769.9190000,2258.2860180,1995
+Bahrein                                                               ,BHR ,15330.0748600,10376.9717000,1995
+Bahamas                                                               ,BHS ,3532.1280500,12238.3862000,1995
+Bosnia y Herzegovina                                                  ,BIH ,6576.4909000,487.4767772,1995
+Belarús                                                               ,BLR ,130352.3510000,1370.6765590,1995
+Belice                                                                ,BLZ ,602.9293100,2996.3829280,1995
+Bermudas                                                              ,BMU ,496.7699050,33989.7223600,1995
+Bolivia                                                               ,BOL ,170371.9690000,880.9922240,1995
+Brasil                                                                ,BRA ,1574445.6290000,4748.2155290,1995
+Barbados                                                              ,BRB ,1099.5552000,8335.8992930,1995
+Brunei Darussalam                                                     ,BRN ,21264.6758000,15933.3455700,1995
+Bhután                                                                ,BTN ,1647.8881000,566.8576986,1995
+Botswana                                                              ,BWA ,12152.9950000,3219.9120510,1995
+República Centroafricana                                              ,CAF ,133886.5290000,346.1088406,1995
+Canadá                                                                ,CAN ,836025.6300000,20613.7878800,1995
+Europa Central y del Báltico                                          ,CEB ,1122706.0370000,3572.6474660,1995
+Suiza                                                                 ,CHE ,54577.6491000,48662.4397700,1995
+Islas del Canal                                                       ,CHI ,0.0000000,,1995
+Islas Caimán                                                          ,CYM ,0.0000000,,1995
+Chile                                                                 ,CHL ,66432.8500000,5107.2768020,1995
+China                                                                 ,CHN ,5042349.1200000,609.6566792,1995
+Côte d'Ivoire                                                         ,CIV ,147447.8440000,774.6712121,1995
+Camerún                                                               ,CMR ,90767.1460000,709.1148297,1995
+"Congo, República Democrática del                                      ",COD ,1232299.8900000,135.7371468,1995
+"Congo, República del                                                  ",COG ,57957.6340000,781.5235685,1995
+Colombia                                                              ,COL ,179102.1058000,2539.9128770,1995
+Comoras                                                               ,COM ,317.9539200,838.1716840,1995
+Cabo Verde                                                            ,CPV ,252.2846900,1261.1161570,1995
+Costa Rica                                                            ,CRI ,10054.8498000,3247.3169870,1995
+Estados pequeos del Caribe                                            ,CSS ,42647.9009500,3507.9047660,1995
+Cuba                                                                  ,CUB ,46584.9770000,2794.7372680,1995
+Chipre                                                                ,CYP ,6594.2496800,15261.4105600,1995
+República Checa                                                       ,CZE ,150508.5610000,5788.1507370,1995
+Alemania                                                              ,DEU ,1131718.7700000,31658.3493800,1995
+Djibouti                                                              ,DJI ,1914.4235200,789.5517691,1995
+Dominica                                                              ,DMA ,140.3249770,3861.1796130,1995
+Dinamarca                                                             ,DNK ,79490.3470000,35351.3654600,1995
+República Dominicana                                                  ,DOM ,22043.9575200,2122.7976660,1995
+Argelia                                                               ,DZA ,123799.1790000,1452.2694450,1995
+Asia oriental y el Pacífico (excluido altos ingresos)                 ,EAP ,8348001.4900000,765.0059888,1995
+inicial del dividendo demográfico                                     ,EAR ,8116343.6290000,1108.5712650,1995
+Asia oriental y el Pacífico                                           ,EAS ,11030428.4000000,4276.2243550,1995
+Europa y Asia central (excluido altos ingresos)                       ,ECA ,4291819.2290000,1965.6327860,1995
+Europa y Asia central                                                 ,ECS ,9677678.5180000,12690.0174500,1995
+Ecuador                                                               ,ECU ,38984.7280000,2132.9069690,1995
+"Egipto, República Árabe de                                            ",EGY ,155524.8830000,965.1107300,1995
+Zona del Euro                                                         ,EMU ,3463880.0400000,23696.9383200,1995
+Eritrea                                                               ,ERI ,3751.3187000,262.2311296,1995
+España                                                                ,ESP ,319459.3340000,15471.9627200,1995
+Estonia                                                               ,EST ,31933.3340000,3130.8070940,1995
+Etiopía                                                               ,ETH ,69202.1040000,134.3429555,1995
+Unión Europea                                                         ,EUU ,4595675.8170000,19464.2224900,1995
+Frágiles y situaciones de conflicto afectados                         ,FCS ,3496913.9380000,621.6235871,1995
+Finlandia                                                             ,FIN ,77426.3597400,26271.5998100,1995
+Fiji                                                                  ,FJI ,2182.1965000,2540.9907100,1995
+Francia                                                               ,FRA ,543013.1400000,26890.2198800,1995
+Islas Feroe                                                           ,FRO ,0.0000000,,1995
+Micronesia (Estados Federados de)                                     ,FSM ,57.8271800,2060.6096960,1995
+Gabón                                                                 ,GAB ,13230.3662000,4570.5923670,1995
+Reino Unido                                                           ,GBR ,728336.0900000,23123.1777900,1995
+Georgia                                                               ,GEO ,13616.2717000,578.3367633,1995
+Ghana                                                                 ,GHA ,30510.8190000,379.9880073,1995
+Gibraltar                                                             ,GIB ,302.5975320,,1995
+Guinea                                                                ,GIN ,62537.2790000,508.1078294,1995
+Gambia                                                                ,GMB ,1244.1703000,696.4508185,1995
+Guinea-Bissau                                                         ,GNB ,1701.0715000,233.2424019,1995
+Guinea Ecuatorial                                                     ,GNQ ,1991.9908740,285.5525482,1995
+Grecia                                                                ,GRC ,99302.9466000,12959.3243200,1995
+Granada                                                               ,GRD ,177.6385380,3411.8989160,1995
+Groenlandia                                                           ,GRL ,0.0000000,21665.7019000,1995
+Guatemala                                                             ,GTM ,19535.9363000,1424.6825430,1995
+Guam                                                                  ,GUM ,67.2026511,,1995
+Guyana                                                                ,GUY ,16107.0376000,816.5429329,1995
+Ingreso alto                                                          ,HIC ,15911789.7500000,24272.3302200,1995
+"Hong Kong, Región Administrativa Especial                             ",HKG ,40640.8644000,23497.4923100,1995
+Honduras                                                              ,HND ,16822.7579000,936.6669981,1995
+Países pobres muy endeudados (PPME)                                   ,HPC ,2757070.0400000,325.3116197,1995
+Croacia                                                               ,HRV ,24621.2535600,4852.2222260,1995
+Haití                                                                 ,HTI ,5951.2854900,363.2658259,1995
+Hungría                                                               ,HUN ,77421.4160000,4494.7076240,1995
+Maldivas                                                              ,MDV ,343.5341030,1569.9635040,1995
+Sólo BIRF                                                             ,IBD ,18325282.6400000,1307.9472470,1995
+BIRF y la AIF                                                         ,IBT ,22833517.5300000,1118.0928130,1995
+total de la AIF                                                       ,IDA ,4508234.8950000,372.4405688,1995
+mezcla de la AIF                                                      ,IDB ,798778.6890000,488.1103210,1995
+Indonesia                                                             ,IDN ,1315570.6700000,1026.3934200,1995
+Sólo AIF                                                              ,IDX ,3709456.2060000,312.7131109,1995
+Isla de Man                                                           ,IMN ,0.0000000,12681.4695600,1995
+India                                                                 ,IND ,1651503.0100000,373.7664800,1995
+No clasificado                                                        ,INX ,0.0000000,,1995
+Irlanda                                                               ,IRL ,68374.0240000,19181.4004500,1995
+"Irán, República Islámica del                                          ",IRN ,370387.9440000,1569.2552940,1995
+Iraq                                                                  ,IRQ ,107285.1050000,,1995
+Islandia                                                              ,ISL ,20878.6768000,26673.6253200,1995
+Israel                                                                ,ISR ,53255.1994000,18103.6625200,1995
+Italia                                                                ,ITA ,518470.7610000,20664.5522700,1995
+Jamaica                                                               ,JAM ,10886.3338000,2580.7363860,1995
+Jordania                                                              ,JOR ,15834.0643000,1486.6468860,1995
+Japón                                                                 ,JPN ,1421640.9100000,43440.3678700,1995
+Kazajstán                                                             ,KAZ ,247266.9450000,1288.2390520,1995
+Kenya                                                                 ,KEN ,41798.4760000,325.7789408,1995
+Kirguistán                                                            ,KGZ ,10488.6816000,364.2264974,1995
+Camboya                                                               ,KHM ,20790.1810000,322.9317876,1995
+Kiribati                                                              ,KIR ,40.1591934,724.8565826,1995
+Saint Kitts y Nevis                                                   ,KNA ,0.0000000,7450.7622370,1995
+"Corea, República de                                                   ",KOR ,453629.6670000,12564.7781300,1995
+Kuwait                                                                ,KWT ,57167.7332000,16932.1483000,1995
+América Latina y el Caribe (excluido altos ingresos)                  ,LAC ,3284229.5040000,3852.5021710,1995
+República Democrática Popular Lao                                     ,LAO ,31879.6780000,363.8796019,1995
+Líbano                                                                ,LBN ,15558.4177700,3321.2963250,1995
+Liberia                                                               ,LBR ,1428.1041200,,1995
+Libia                                                                 ,LBY ,65215.4728000,5161.6833420,1995
+Santa Lucía                                                           ,LCA ,334.1458400,5194.8182950,1995
+América Latina y el Caribe                                            ,LCN ,3397823.0610000,3986.6089300,1995
+Países menos desarrollados: clasificación de las Naciones Unidas      ,LDC ,3452192.5430000,272.4627550,1995
+Países de ingreso bajo                                                ,LIC ,2077390.0710000,267.6740375,1995
+Liechtenstein                                                         ,LIE ,0.0000000,78641.8845600,1995
+Sri Lanka                                                             ,LKA ,20611.1024000,714.2334273,1995
+Mauritania                                                            ,MRT ,8039.7137000,904.0907235,1995
+Países de ingreso mediano bajo                                        ,LMC ,5691571.0540000,490.8155776,1995
+Ingreso mediano y bajo                                                ,LMY ,22223407.1600000,1071.1792270,1995
+Lesotho                                                               ,LSO ,1938.4438000,527.6998379,1995
+avanzada del dividendo demográfico                                    ,LTE ,11920675.3000000,1542.8869760,1995
+Lituania                                                              ,LTU ,29219.7100000,2168.7960990,1995
+Luxemburgo                                                            ,LUX ,10728.9068000,52831.2523700,1995
+Letonia                                                               ,LVA ,18782.9980000,2322.0870100,1995
+"Región Administrativa Especial de Macao, China                        ",MAC ,0.0000000,18147.3362400,1995
+Isla de San Martín (parte francesa)                                   ,MAF ,0.0000000,,1995
+Marruecos                                                             ,MAR ,41902.2790000,1432.3101510,1995
+Mónaco                                                                ,MCO ,0.0000000,101910.1086000,1995
+República de Moldova                                                  ,MDA ,16651.8869000,593.7661383,1995
+Madagascar                                                            ,MDG ,46520.5960000,284.8227921,1995
+Oriente Medio y Norte de África                                       ,MEA ,1526488.2100000,2477.7984260,1995
+México                                                                ,MEX ,515961.2120000,3928.2239260,1995
+Islas Marshall                                                        ,MHL ,0.0000000,2382.8210160,1995
+ Ingreso mediano                                                      ,MIC ,20146017.0900000,1136.9784320,1995
+Macedonia del Norte                                                   ,MKD ,11579.5453000,2359.8003380,1995
+Malí                                                                  ,MLI ,31483.0130000,282.3412550,1995
+Malta                                                                 ,MLT ,2710.7242700,9114.3580650,1995
+Myanmar                                                               ,MMR ,943040.1800000,,1995
+Oriente Medio y Norte de África (excluido altos ingresos)             ,MNA ,1000634.1280000,1341.4261060,1995
+Montenegro                                                            ,MNE ,0.0000000,,1995
+Mongolia                                                              ,MNG ,59119.4150000,631.9200900,1995
+Mariana                                                               ,MNP ,6.5559251,,1995
+Mozambique                                                            ,MOZ ,36851.0380000,187.3577410,1995
+Mauricio                                                              ,MUS ,1834.3624800,3599.5552020,1995
+Malawi                                                                ,MWI ,8132.4539000,141.9543906,1995
+Malasia                                                               ,MYS ,252184.5882000,4329.7073640,1995
+América del Norte                                                     ,NAC ,7201819.0000000,27891.3874400,1995
+Namibia                                                               ,NAM ,7245.0185000,2421.8704900,1995
+Nueva Caledonia                                                       ,NCL ,0.0000000,18721.0564400,1995
+Níger                                                                 ,NER ,8185.4332000,243.7814238,1995
+Nigeria                                                               ,NGA ,184046.2000000,408.1810600,1995
+Nicaragua                                                             ,NIC ,10769.1390000,890.0054491,1995
+Países Bajos                                                          ,NLD ,235053.0070000,29258.1343500,1995
+Noruega                                                               ,NOR ,70569.1010000,34875.7043300,1995
+Nepal                                                                 ,NPL ,26905.3119000,203.9808090,1995
+Nauru                                                                 ,NRU ,0.0000000,,1995
+Nueva Zelandia                                                        ,NZL ,69576.0500000,17400.4201800,1995
+Miembros OCDE                                                         ,OED ,15888561.6200000,22139.3902400,1995
+Omán                                                                  ,OMN ,41448.6408000,6261.7360610,1995
+Otros Estados pequeos                                                 ,OSS ,148109.7660000,3656.3322240,1995
+Pakistán                                                              ,PAK ,209249.9689000,489.8818140,1995
+Panamá                                                                ,PAN ,8817.5947000,3494.5160140,1995
+Perú                                                                  ,PER ,63406.5140000,2194.0179700,1995
+Filipinas                                                             ,PHL ,125623.4520000,1062.1330650,1995
+Palau                                                                 ,PLW ,0.0000000,,1995
+Papua Nueva Guinea                                                    ,PNG ,35410.1243000,893.7736360,1995
+Polonia                                                               ,POL ,458557.0840000,3682.7912150,1995
+previa al dividendo demográfico                                       ,PRE ,2818129.3290000,365.2674331,1995
+Puerto Rico                                                           ,PRI ,2888.3482700,11579.1850000,1995
+"Corea, República Popular Democrática de                               ",PRK ,111920.3070000,,1995
+Portugal                                                              ,PRT ,69204.4065000,11781.3618500,1995
+Paraguay                                                              ,PRY ,60568.4950000,1897.0963620,1995
+Ribera Occidental y Gaza                                              ,PSE ,0.0000000,1326.5628570,1995
+Estados pequeos de las Islas del Pacfico                              ,PSS ,7026.7499030,2033.9255720,1995
+posterior al dividendo demográfico                                    ,PST ,15093438.3400000,24982.4401200,1995
+Polinesia Francesa                                                    ,PYF ,777.4971900,18261.8268600,1995
+Qatar                                                                 ,QAT ,0.0000000,15849.7200800,1995
+Rumania                                                               ,ROU ,177197.3560000,1650.2764810,1995
+Federación de Rusia                                                   ,RUS ,2645144.6900000,2665.7798670,1995
+Rwanda                                                                ,RWA ,3231.6846000,221.6287362,1995
+Asia meridional                                                       ,SAS ,2058404.8040000,380.3637468,1995
+Arabia Saudita                                                        ,SAU ,262037.6970000,7690.5775220,1995
+Sudán                                                                 ,SDN ,101975.7600000,473.4133899,1995
+Senegal                                                               ,SEN ,12144.9790000,710.7245102,1995
+Singapur                                                              ,SGP ,0.0000000,24914.4112600,1995
+Islas Salomón                                                         ,SLB ,3885.2756000,1445.4816610,1995
+Sierra Leona                                                          ,SLE ,8960.4197000,202.3158548,1995
+El Salvador                                                           ,SLV ,9244.0507000,1585.1094590,1995
+San Marino                                                            ,SMR ,0.0000000,,1995
+Somalia                                                               ,SOM ,18762.6274000,,1995
+Serbia                                                                ,SRB ,0.0000000,2207.4543030,1995
+África al sur del Sahara (excluido altos ingresos)                    ,SSA ,3240318.0060000,607.2154013,1995
+Sudán del Sur                                                         ,SSD ,0.0000000,,1995
+África al sur del Sahara                                              ,SSF ,3242554.9140000,613.7940276,1995
+Pequeños Estados                                                      ,SST ,197784.4168000,3506.9046210,1995
+Santo Tomé y Príncipe                                                 ,STP ,107.2090070,,1995
+Suriname                                                              ,SUR ,9187.7520000,1565.2120230,1995
+República Eslovaca                                                    ,SVK ,53824.7100000,4819.1255550,1995
+Eslovenia                                                             ,SVN ,18869.6953000,10730.4509100,1995
+Suecia                                                                ,SWE ,82229.8406200,30282.9639200,1995
+Eswatini                                                              ,SWZ ,2292.5497000,1833.0894270,1995
+Sint Maarten (Dutch part)                                             ,SXM ,0.0000000,,1995
+Seychelles                                                            ,SYC ,402.5447610,6748.9311090,1995
+República Árabe Siria                                                 ,SYR ,60581.4630100,794.4451530,1995
+Islas Turcas y Caicos                                                 ,TCA ,0.0000000,,1995
+Chad                                                                  ,TCD ,17935.6860000,206.2610645,1995
+Asia oriental y el Pacífico (BIRF y la AIF)                           ,TEA ,8236058.2990000,773.2860428,1995
+Europa y Asia central (BIRF y la AIF)                                 ,TEC ,4952194.9230000,2132.2939710,1995
+Togo                                                                  ,TGO ,12779.7098000,309.8184402,1995
+Tailandia                                                             ,THA ,281623.8140000,2846.5867380,1995
+Tayikistán                                                            ,TJK ,12715.7739000,213.6353402,1995
+Turkmenistán                                                          ,TKM ,55244.0411800,589.9054740,1995
+América Latina y el Caribe (BIRF y la AIF)                            ,TLA ,3343670.4650000,3930.5732340,1995
+Timor-Leste                                                           ,TLS ,781.2241100,,1995
+Oriente Medio y Norte de África (BIRF y la AIF)                       ,TMN ,1000634.1280000,1341.4192340,1995
+Tonga                                                                 ,TON ,150.4485820,2110.3923260,1995
+Asia meridional (BIRF y la AIF)                                       ,TSA ,2058404.8040000,380.3637468,1995
+África al sur del Sahara (BIRF y la AIF)                              ,TSS ,3242554.9140000,613.7940276,1995
+Trinidad y Tobago                                                     ,TTO ,0.0000000,4249.0943730,1995
+Túnez                                                                 ,TUN ,24746.4234000,1975.9002950,1995
+Turquía                                                               ,TUR ,261203.4220000,2897.8664910,1995
+Tuvalu                                                                ,TUV ,4.6309078,1185.8405190,1995
+Tanzanía                                                              ,TZA ,90916.0040000,182.3618837,1995
+Uganda                                                                ,UGA ,38761.0350000,281.9662023,1995
+Ucrania                                                               ,UKR ,598434.2500000,935.9589884,1995
+Ingreso mediano alto                                                  ,UMC ,14454446.0400000,1680.9688550,1995
+Uruguay                                                               ,URY ,30383.5490000,5985.1058570,1995
+Estados Unidos                                                        ,USA ,6365296.6000000,28690.8757000,1995
+Uzbekistán                                                            ,UZB ,145116.2276000,585.9323642,1995
+San Vicente y las Granadinas                                          ,VCT ,188.1115230,2925.0565230,1995
+Venezuela                                                             ,VEN ,227661.2150000,3529.5896110,1995
+Islas Vírgenes Británicas                                             ,VGB ,0.0000000,,1995
+Islas Vírgenes (EE.UU.)                                               ,VIR ,47.5869290,,1995
+Viet Nam                                                              ,VNM ,120659.1020000,276.8126665,1995
+Vanuatu                                                               ,VUT ,426.3524100,1390.9663230,1995
+Mundo                                                                 ,WLD ,39040328.2300000,5412.3440590,1995
+Samoa                                                                 ,WSM ,279.8595300,1322.3195650,1995
+Kosovo                                                                ,XKX ,0.0000000,,1995
+"Yemen, Rep. del                                                       ",YEM ,17884.4732700,285.5695548,1995
+Sudáfrica                                                             ,ZAF ,371350.2050000,3751.8543280,1995
+Zambia                                                                ,ZMB ,185179.1143000,418.5150707,1995
+Zimbabwe                                                              ,ZWE ,30376.9860000,623.2099674,1995

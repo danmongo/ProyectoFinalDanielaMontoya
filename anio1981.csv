@@ -1,0 +1,264 @@
+countryname,countrycode,co2,gdp,anio
+Afganistán                                                            ,AFG ,15810.3350000,264.1113175,1981
+Angola                                                                ,AGO ,41894.7949600,642.3838580,1981
+Albania                                                               ,ALB ,10520.3625000,,1981
+Andorra                                                               ,AND ,0.0000000,10372.2328300,1981
+El mundo árabe                                                        ,ARB ,838921.4029000,2050.7747370,1981
+Emiratos Árabes Unidos                                                ,ARE ,53924.8253000,44987.2098000,1981
+Argentina                                                             ,ARG ,245776.7600000,2776.3219900,1981
+Armenia                                                               ,ARM ,15064.5702000,,1981
+Samoa Americana                                                       ,ASM ,16.5597081,,1981
+Antigua y Barbuda                                                     ,ATG ,430.1089840,2392.2610750,1981
+Australia                                                             ,AUS ,387882.4390000,11833.7432100,1981
+Austria                                                               ,AUT ,75501.6060000,9385.2490180,1981
+Curacao                                                               ,CUW ,0.0000000,,1981
+Azerbaiyán                                                            ,AZE ,55448.8495000,,1981
+Burundi                                                               ,BDI ,2205.1394000,227.1281200,1981
+Bélgica                                                               ,BEL ,153822.2400000,10622.8024600,1981
+Benin                                                                 ,BEN ,36459.2918000,337.9781947,1981
+Burkina Faso                                                          ,BFA ,8415.5595000,254.2307807,1981
+Bangladesh                                                            ,BGD ,116074.2380000,247.6496198,1981
+Bulgaria                                                              ,BGR ,116431.8390000,2234.8148160,1981
+Bahrein                                                               ,BHR ,11138.6983600,9269.2696170,1981
+Bahamas                                                               ,BHS ,5977.6820400,6624.8386170,1981
+Bosnia y Herzegovina                                                  ,BIH ,19788.5988000,,1981
+Belarús                                                               ,BLR ,190307.1230000,,1981
+Belice                                                                ,BLZ ,531.0411800,1328.8281490,1981
+Bermudas                                                              ,BMU ,740.9360540,13425.9769700,1981
+Bolivia                                                               ,BOL ,169439.8020000,1030.8334160,1981
+Brasil                                                                ,BRA ,1392080.6790000,2132.8833170,1981
+Barbados                                                              ,BRB ,1113.6958700,4398.7901330,1981
+Brunei Darussalam                                                     ,BRN ,15004.8609000,21828.7772300,1981
+Bhután                                                                ,BTN ,1085.7305900,350.1262577,1981
+Botswana                                                              ,BWA ,10015.8420000,1154.1835400,1981
+República Centroafricana                                              ,CAF ,104548.4370000,306.8321038,1981
+Canadá                                                                ,CAN ,699416.9100000,12337.4662500,1981
+Europa Central y del Báltico                                          ,CEB ,1695106.4100000,,1981
+Suiza                                                                 ,CHE ,51483.2500000,17153.4013200,1981
+Islas del Canal                                                       ,CHI ,0.0000000,,1981
+Islas Caimán                                                          ,CYM ,194.4893660,,1981
+Chile                                                                 ,CHL ,41831.3440000,2979.6094220,1981
+China                                                                 ,CHN ,2724309.2370000,197.0714745,1981
+Côte d'Ivoire                                                         ,CIV ,118980.8680000,1004.6341330,1981
+Camerún                                                               ,CMR ,69936.0340000,859.1231094,1981
+"Congo, República Democrática del                                      ",COD ,1079908.0600000,463.6712920,1981
+"Congo, República del                                                  ",COG ,50348.7020000,1088.9749150,1981
+Colombia                                                              ,COL ,149819.5590000,1323.3761400,1981
+Comoras                                                               ,COM ,249.6095200,618.2186976,1981
+Cabo Verde                                                            ,CPV ,289.8756170,483.1285991,1981
+Costa Rica                                                            ,CRI ,7701.5696000,1068.5046000,1981
+Estados pequeos del Caribe                                            ,CSS ,43776.4619400,2683.6598140,1981
+Cuba                                                                  ,CUB ,57498.0860000,2035.6076420,1981
+Chipre                                                                ,CYP ,3663.4322400,4033.2404780,1981
+República Checa                                                       ,CZE ,220358.3100000,,1981
+Alemania                                                              ,DEU ,1317791.8500000,10209.0731100,1981
+Djibouti                                                              ,DJI ,1455.1842900,,1981
+Dominica                                                              ,DMA ,96.7777840,1090.2732890,1981
+Dinamarca                                                             ,DNK ,73218.9230000,12081.8010500,1981
+República Dominicana                                                  ,DOM ,13619.1324000,1273.8234360,1981
+Argelia                                                               ,DZA ,79915.6710000,2237.0863250,1981
+Asia oriental y el Pacífico (excluido altos ingresos)                 ,EAP ,4753591.8570000,289.4320774,1981
+inicial del dividendo demográfico                                     ,EAR ,5315713.8090000,887.1524843,1981
+Asia oriental y el Pacífico                                           ,EAS ,6608207.5380000,1262.7252270,1981
+Europa y Asia central (excluido altos ingresos)                       ,ECA ,4730869.2880000,,1981
+Europa y Asia central                                                 ,ECS ,10771439.8300000,5123.1552750,1981
+Ecuador                                                               ,ECU ,25095.7716000,2660.6115030,1981
+"Egipto, República Árabe de                                            ",EGY ,93496.6140000,498.5591159,1981
+Zona del Euro                                                         ,EMU ,3740695.6160000,8489.9134860,1981
+Eritrea                                                               ,ERI ,2972.4192000,,1981
+España                                                                ,ESP ,274923.5770000,5371.1664220,1981
+Estonia                                                               ,EST ,70863.4169000,,1981
+Etiopía                                                               ,ETH ,54772.9930000,203.5570173,1981
+Unión Europea                                                         ,EUU ,5240913.3050000,7033.9785570,1981
+Frágiles y situaciones de conflicto afectados                         ,FCS ,2711752.9780000,786.7704865,1981
+Finlandia                                                             ,FIN ,66642.9922100,10926.8179700,1981
+Fiji                                                                  ,FJI ,1929.5288000,1898.4024110,1981
+Francia                                                               ,FRA ,621534.3100000,11104.9777300,1981
+Islas Feroe                                                           ,FRO ,0.0000000,,1981
+Micronesia (Estados Federados de)                                     ,FSM ,32.9450730,,1981
+Gabón                                                                 ,GAB ,11074.7098100,5186.3701790,1981
+Reino Unido                                                           ,GBR ,789385.0600000,9599.3062220,1981
+Georgia                                                               ,GEO ,51528.6780000,,1981
+Ghana                                                                 ,GHA ,23534.1000000,372.0773779,1981
+Gibraltar                                                             ,GIB ,91.5696294,,1981
+Guinea                                                                ,GIN ,50814.5840000,,1981
+Gambia                                                                ,GMB ,993.1293300,332.6816182,1981
+Guinea-Bissau                                                         ,GNB ,1296.4635000,194.9241624,1981
+Guinea Ecuatorial                                                     ,GNQ ,156.8590670,138.9373495,1981
+Grecia                                                                ,GRC ,69870.2276000,5380.2676830,1981
+Granada                                                               ,GRD ,113.4636790,1276.4126270,1981
+Groenlandia                                                           ,GRL ,0.0000000,8544.0583290,1981
+Guatemala                                                             ,GTM ,12517.8603000,1217.2640200,1981
+Guam                                                                  ,GUM ,52.7779396,,1981
+Guyana                                                                ,GUY ,16290.1316000,729.6069588,1981
+Ingreso alto                                                          ,HIC ,14931852.4700000,9415.4711690,1981
+"Hong Kong, Región Administrativa Especial                             ",HKG ,18817.1345500,5991.3202610,1981
+Honduras                                                              ,HND ,10112.8012000,1066.1695860,1981
+Países pobres muy endeudados (PPME)                                   ,HPC ,2350935.3530000,391.3378164,1981
+Croacia                                                               ,HRV ,40950.5830000,,1981
+Haití                                                                 ,HTI ,5279.5980000,256.2456633,1981
+Hungría                                                               ,HUN ,120093.2090000,,1981
+Maldivas                                                              ,MDV ,0.0000000,273.3510167,1981
+Sólo BIRF                                                             ,IBD ,14071910.6000000,812.2660171,1981
+BIRF y la AIF                                                         ,IBT ,17567354.6300000,780.3569099,1981
+total de la AIF                                                       ,IDA ,3495444.0250000,633.6335143,1981
+mezcla de la AIF                                                      ,IDB ,526877.7571000,1144.5922470,1981
+Indonesia                                                             ,IDN ,637827.3300000,566.5776809,1981
+Sólo AIF                                                              ,IDX ,2968566.2680000,356.3488479,1981
+Isla de Man                                                           ,IMN ,0.0000000,,1981
+India                                                                 ,IND ,979738.3500000,270.4706024,1981
+No clasificado                                                        ,INX ,0.0000000,,1981
+Irlanda                                                               ,IRL ,57799.2760000,5993.3229360,1981
+"Irán, República Islámica del                                          ",IRN ,163748.8300000,2499.9887500,1981
+Iraq                                                                  ,IRQ ,66669.9340000,2736.0204660,1981
+Islandia                                                              ,ISL ,13733.0487000,15160.0070700,1981
+Israel                                                                ,ISR ,24505.3025000,6465.9322730,1981
+Italia                                                                ,ITA ,466863.8480000,7622.8333280,1981
+Jamaica                                                               ,JAM ,8081.9637000,1356.0166310,1981
+Jordania                                                              ,JOR ,6602.3977000,1778.8729490,1981
+Japón                                                                 ,JPN ,1105577.5900000,10361.3230600,1981
+Kazajstán                                                             ,KAZ ,206127.4320000,,1981
+Kenya                                                                 ,KEN ,28404.2770000,401.6960422,1981
+Kirguistán                                                            ,KGZ ,17020.0065000,,1981
+Camboya                                                               ,KHM ,13478.0248000,,1981
+Kiribati                                                              ,KIR ,55.3810540,688.3036078,1981
+Saint Kitts y Nevis                                                   ,KNA ,122.3818190,1882.9191060,1981
+"Corea, República de                                                   ",KOR ,181587.5300000,1883.4512790,1981
+Kuwait                                                                ,KWT ,42894.2394000,17408.5545100,1981
+América Latina y el Caribe (excluido altos ingresos)                  ,LAC ,2838226.0020000,2365.3889700,1981
+República Democrática Popular Lao                                     ,LAO ,24130.6220000,,1981
+Líbano                                                                ,LBN ,8685.9173000,,1981
+Liberia                                                               ,LBR ,2527.3927200,,1981
+Libia                                                                 ,LBY ,45320.3481000,,1981
+Santa Lucía                                                           ,LCA ,222.7067700,1628.1038640,1981
+América Latina y el Caribe                                            ,LCN ,2928972.1910000,2444.5498820,1981
+Países menos desarrollados: clasificación de las Naciones Unidas      ,LDC ,2805527.7510000,294.1073521,1981
+Países de ingreso bajo                                                ,LIC ,1764101.2430000,379.1117105,1981
+Liechtenstein                                                         ,LIE ,0.0000000,19500.6742300,1981
+Sri Lanka                                                             ,LKA ,18905.3343000,289.1306894,1981
+Mauritania                                                            ,MRT ,5019.7096000,696.8170477,1981
+Países de ingreso mediano bajo                                        ,LMC ,4240582.6500000,506.0067357,1981
+Ingreso mediano y bajo                                                ,LMY ,16814443.5700000,753.7569219,1981
+Lesotho                                                               ,LSO ,1797.4011000,315.1316224,1981
+avanzada del dividendo demográfico                                    ,LTE ,9735237.1320000,846.0897736,1981
+Lituania                                                              ,LTU ,133148.6620000,,1981
+Luxemburgo                                                            ,LUX ,12484.9763000,14324.8919700,1981
+Letonia                                                               ,LVA ,62361.5240000,,1981
+"Región Administrativa Especial de Macao, China                        ",MAC ,547.3329820,,1981
+Isla de San Martín (parte francesa)                                   ,MAF ,0.0000000,,1981
+Marruecos                                                             ,MAR ,28896.4600000,861.7975826,1981
+Mónaco                                                                ,MCO ,0.0000000,44369.5613500,1981
+República de Moldova                                                  ,MDA ,40488.4573000,,1981
+Madagascar                                                            ,MDG ,40817.1860000,530.5039512,1981
+Oriente Medio y Norte de África                                       ,MEA ,932039.5303000,2175.3948500,1981
+México                                                                ,MEX ,407085.7830000,3803.0308710,1981
+Islas Marshall                                                        ,MHL ,3.2426939,972.6272223,1981
+ Ingreso mediano                                                      ,MIC ,15050342.3200000,783.2026191,1981
+Macedonia del Norte                                                   ,MKD ,13989.7454000,,1981
+Malí                                                                  ,MLI ,26719.2380000,212.7201131,1981
+Malta                                                                 ,MLT ,1341.2360900,3898.2430370,1981
+Myanmar                                                               ,MMR ,684627.2800000,,1981
+Oriente Medio y Norte de África (excluido altos ingresos)             ,MNA ,517598.4924000,,1981
+Montenegro                                                            ,MNE ,0.0000000,,1981
+Mongolia                                                              ,MNG ,37863.3690000,1332.6405630,1981
+Mariana                                                               ,MNP ,3.4888469,,1981
+Mozambique                                                            ,MOZ ,32465.7560000,,1981
+Mauricio                                                              ,MUS ,884.6322100,1165.1584200,1981
+Malawi                                                                ,MWI ,6280.8873000,193.0149055,1981
+Malasia                                                               ,MYS ,138493.8168000,1769.0996520,1981
+América del Norte                                                     ,NAC ,6530407.2460000,13816.0833200,1981
+Namibia                                                               ,NAM ,6431.6512000,2078.5199070,1981
+Nueva Caledonia                                                       ,NCL ,2196.9357100,6817.8325290,1981
+Níger                                                                 ,NER ,8313.6936000,352.2058630,1981
+Nigeria                                                               ,NGA ,134625.3210000,2180.1977080,1981
+Nicaragua                                                             ,NIC ,9077.5337000,728.6274113,1981
+Países Bajos                                                          ,NLD ,216959.4750000,11520.4478700,1981
+Noruega                                                               ,NOR ,62737.3830000,15512.5067000,1981
+Nepal                                                                 ,NPL ,23331.5389000,148.0802537,1981
+Nauru                                                                 ,NRU ,0.0000000,,1981
+Nueva Zelandia                                                        ,NZL ,58363.3220000,7813.8875430,1981
+Miembros OCDE                                                         ,OED ,14762981.8100000,8759.8165590,1981
+Omán                                                                  ,OMN ,28754.9893000,5947.2467310,1981
+Otros Estados pequeos                                                 ,OSS ,168991.1396000,2716.8274020,1981
+Pakistán                                                              ,PAK ,123883.0799000,348.2950693,1981
+Panamá                                                                ,PAN ,6658.0435000,2577.7375390,1981
+Perú                                                                  ,PER ,60095.3410000,1203.7066760,1981
+Filipinas                                                             ,PHL ,87094.4810000,732.3677521,1981
+Palau                                                                 ,PLW ,0.0000000,,1981
+Papua Nueva Guinea                                                    ,PNG ,16620.8831000,681.0244068,1981
+Polonia                                                               ,POL ,569138.1100000,,1981
+previa al dividendo demográfico                                       ,PRE ,2331847.2490000,511.8362254,1981
+Puerto Rico                                                           ,PRI ,2437.5132100,4920.7229370,1981
+"Corea, República Popular Democrática de                               ",PRK ,150760.5370000,,1981
+Portugal                                                              ,PRT ,43003.0460000,3245.9751140,1981
+Paraguay                                                              ,PRY ,53699.2230000,1718.5050720,1981
+Ribera Occidental y Gaza                                              ,PSE ,0.0000000,,1981
+Estados pequeos de las Islas del Pacfico                              ,PSS ,8547.8569890,1371.5829020,1981
+posterior al dividendo demográfico                                    ,PST ,14277940.4900000,9427.8595020,1981
+Polinesia Francesa                                                    ,PYF ,435.1369860,8103.5046270,1981
+Qatar                                                                 ,QAT ,14881.0130000,34926.1406300,1981
+Rumania                                                               ,ROU ,269640.8350000,,1981
+Federación de Rusia                                                   ,RUS ,3032439.5300000,,1981
+Rwanda                                                                ,RWA ,2630.5502000,264.0262850,1981
+Asia meridional                                                       ,SAS ,1278828.6070000,271.3225987,1981
+Arabia Saudita                                                        ,SAU ,237000.7340000,17871.9760700,1981
+Sudán                                                                 ,SDN ,74389.9500000,509.1305226,1981
+Senegal                                                               ,SEN ,9019.5803000,700.5899253,1981
+Singapur                                                              ,SGP ,0.0000000,5596.5859770,1981
+Islas Salomón                                                         ,SLB ,5758.5980000,785.6144232,1981
+Sierra Leona                                                          ,SLE ,7885.5052000,321.8234292,1981
+El Salvador                                                           ,SLV ,5803.8731000,736.5906732,1981
+San Marino                                                            ,SMR ,0.0000000,,1981
+Somalia                                                               ,SOM ,16817.9720000,107.3721600,1981
+Serbia                                                                ,SRB ,0.0000000,,1981
+África al sur del Sahara (excluido altos ingresos)                    ,SSA ,2695329.3190000,966.3598705,1981
+Sudán del Sur                                                         ,SSD ,0.0000000,,1981
+África al sur del Sahara                                              ,SSF ,2696401.0980000,966.8309480,1981
+Pequeños Estados                                                      ,SST ,221315.4585000,2621.5333670,1981
+Santo Tomé y Príncipe                                                 ,STP ,58.4997460,,1981
+Suriname                                                              ,SUR ,10680.7747000,2468.4639160,1981
+República Eslovaca                                                    ,SVK ,75527.6290000,,1981
+Eslovenia                                                             ,SVN ,16592.2920000,,1981
+Suecia                                                                ,SWE ,90385.8800600,15586.4300700,1981
+Eswatini                                                              ,SWZ ,2031.9801000,939.4501374,1981
+Sint Maarten (Dutch part)                                             ,SXM ,0.0000000,,1981
+Seychelles                                                            ,SYC ,187.1463330,2419.0344190,1981
+República Árabe Siria                                                 ,SYR ,0.0000000,1677.1262440,1981
+Islas Turcas y Caicos                                                 ,TCA ,1.6434824,,1981
+Chad                                                                  ,TCD ,14530.7860000,190.1075799,1981
+Asia oriental y el Pacífico (BIRF y la AIF)                           ,TEA ,4602814.7600000,292.5948261,1981
+Europa y Asia central (BIRF y la AIF)                                 ,TEC ,5610598.8160000,,1981
+Togo                                                                  ,TGO ,9836.7877000,342.1913045,1981
+Tailandia                                                             ,THA ,143100.4800000,721.0592702,1981
+Tayikistán                                                            ,TJK ,9825.9201000,,1981
+Turkmenistán                                                          ,TKM ,32512.0204800,,1981
+América Latina y el Caribe (BIRF y la AIF)                            ,TLA ,2861112.8510000,2419.8201920,1981
+Timor-Leste                                                           ,TLS ,356.7190060,,1981
+Oriente Medio y Norte de África (BIRF y la AIF)                       ,TMN ,517598.4924000,,1981
+Tonga                                                                 ,TON ,138.3562510,666.3385041,1981
+Asia meridional (BIRF y la AIF)                                       ,TSA ,1278828.6070000,271.3225987,1981
+África al sur del Sahara (BIRF y la AIF)                              ,TSS ,2696401.0980000,966.8309480,1981
+Trinidad y Tobago                                                     ,TTO ,0.0000000,6345.0010870,1981
+Túnez                                                                 ,TUN ,14895.9575000,1286.5541710,1981
+Turquía                                                               ,TUR ,150438.5120000,1579.0736730,1981
+Tuvalu                                                                ,TUV ,2.8464198,,1981
+Tanzanía                                                              ,TZA ,75069.8910000,,1981
+Uganda                                                                ,UGA ,25371.1850000,104.2722378,1981
+Ucrania                                                               ,UKR ,690836.4400000,,1981
+Ingreso mediano alto                                                  ,UMC ,10809759.6700000,993.0175225,1981
+Uruguay                                                               ,URY ,31343.0570000,3764.8356160,1981
+Estados Unidos                                                        ,USA ,5830249.4000000,13976.1097500,1981
+Uzbekistán                                                            ,UZB ,78101.2036400,,1981
+San Vicente y las Granadinas                                          ,VCT ,115.7338090,1006.4033760,1981
+Venezuela                                                             ,VEN ,177390.0360000,4252.3353400,1981
+Islas Vírgenes Británicas                                             ,VGB ,77.7957900,,1981
+Islas Vírgenes (EE.UU.)                                               ,VIR ,39.4330760,,1981
+Viet Nam                                                              ,VNM ,86364.6600000,,1981
+Vanuatu                                                               ,VUT ,352.8331300,833.0147830,1981
+Mundo                                                                 ,WLD ,32418038.8700000,2576.6880070,1981
+Samoa                                                                 ,WSM ,274.1255670,,1981
+Kosovo                                                                ,XKX ,0.0000000,,1981
+"Yemen, Rep. del                                                       ",YEM ,7911.1785000,,1981
+Sudáfrica                                                             ,ZAF ,311848.0050000,2913.2417560,1981
+Zambia                                                                ,ZMB ,161735.1910000,639.5429552,1981
+Zimbabwe                                                              ,ZWE ,21833.4510000,1043.7468330,1981

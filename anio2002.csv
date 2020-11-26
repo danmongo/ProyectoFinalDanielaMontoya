@@ -1,0 +1,264 @@
+countryname,countrycode,co2,gdp,anio
+Afganistán                                                            ,AFG ,13842.7381000,179.4266110,2002
+Angola                                                                ,AGO ,34490.3690000,872.4944916,2002
+Albania                                                               ,ALB ,7503.0597600,1425.1248490,2002
+Andorra                                                               ,AND ,0.0000000,25066.8822100,2002
+El mundo árabe                                                        ,ARB ,1927544.1550000,2476.6960290,2002
+Emiratos Árabes Unidos                                                ,ARE ,126800.2057000,31567.4737100,2002
+Argentina                                                             ,ARG ,311051.9300000,2593.4041500,2002
+Armenia                                                               ,ARM ,6460.2393000,783.2406986,2002
+Samoa Americana                                                       ,ASM ,51.3482100,8700.0677050,2002
+Antigua y Barbuda                                                     ,ATG ,406.4320420,10404.4362100,2002
+Australia                                                             ,AUS ,1117450.0200000,20082.4832700,2002
+Austria                                                               ,AUT ,87386.6881700,26401.7454600,2002
+Curacao                                                               ,CUW ,0.0000000,,2002
+Azerbaiyán                                                            ,AZE ,40298.5460000,763.0806380,2002
+Burundi                                                               ,BDI ,5029.5112000,123.1176280,2002
+Bélgica                                                               ,BEL ,138048.5140000,24887.5613300,2002
+Benin                                                                 ,BEN ,47757.3440000,572.2287954,2002
+Burkina Faso                                                          ,BFA ,50062.4770000,293.2807467,2002
+Bangladesh                                                            ,BGD ,143812.5730000,413.0802546,2002
+Bulgaria                                                              ,BGR ,63711.0187000,2092.9576940,2002
+Bahrein                                                               ,BHR ,19967.0134000,13049.8032200,2002
+Bahamas                                                               ,BHS ,3255.0009500,28866.8010100,2002
+Bosnia y Herzegovina                                                  ,BIH ,17112.2990000,1769.1998280,2002
+Belarús                                                               ,BLR ,89727.1050000,1479.3145830,2002
+Belice                                                                ,BLZ ,1702.5859000,3525.6385830,2002
+Bermudas                                                              ,BMU ,527.0962860,62583.1002000,2002
+Bolivia                                                               ,BOL ,110701.1930000,904.2266273,2002
+Brasil                                                                ,BRA ,1591827.0500000,2829.2831920,2002
+Barbados                                                              ,BRB ,1263.7357500,11361.4336700,2002
+Brunei Darussalam                                                     ,BRN ,9840.8143000,16850.1511300,2002
+Bhután                                                                ,BTN ,1707.6003900,845.5102798,2002
+Botswana                                                              ,BWA ,51450.3020000,3190.6154530,2002
+República Centroafricana                                              ,CAF ,350970.5900000,260.7455273,2002
+Canadá                                                                ,CAN ,908686.1500000,24169.2847300,2002
+Europa Central y del Báltico                                          ,CEB ,960407.7135000,4929.7604690,2002
+Suiza                                                                 ,CHE ,52997.4193000,41376.3939900,2002
+Islas del Canal                                                       ,CHI ,0.0000000,44544.4334400,2002
+Islas Caimán                                                          ,CYM ,0.0000000,,2002
+Chile                                                                 ,CHL ,91214.1480000,4446.2505050,2002
+China                                                                 ,CHN ,5474914.9000000,1148.5082900,2002
+Côte d'Ivoire                                                         ,CIV ,28670.9430000,716.5302656,2002
+Camerún                                                               ,CMR ,128242.3660000,707.8875674,2002
+"Congo, República Democrática del                                      ",COD ,763919.4200000,175.0099651,2002
+"Congo, República del                                                  ",COG ,24853.8734000,912.2781532,2002
+Colombia                                                              ,COL ,148233.5160000,2396.6272740,2002
+Comoras                                                               ,COM ,406.2687400,744.4751724,2002
+Cabo Verde                                                            ,CPV ,309.0374100,1401.9037330,2002
+Costa Rica                                                            ,CRI ,9998.1717000,4024.6519000,2002
+Estados pequeos del Caribe                                            ,CSS ,28531.3688200,5599.1544590,2002
+Cuba                                                                  ,CUB ,48831.0360000,2999.2452440,2002
+Chipre                                                                ,CYP ,8040.8111800,16093.2146100,2002
+República Checa                                                       ,CZE ,152372.4188000,8032.8966120,2002
+Alemania                                                              ,DEU ,1007404.9270000,25077.7290800,2002
+Djibouti                                                              ,DJI ,2019.0094100,791.3894782,2002
+Dominica                                                              ,DMA ,159.0911290,4771.0409270,2002
+Dinamarca                                                             ,DNK ,69387.7450000,33228.6935400,2002
+República Dominicana                                                  ,DOM ,29253.3232000,3136.1551870,2002
+Argelia                                                               ,DZA ,131222.6540000,1781.8373650,2002
+Asia oriental y el Pacífico (excluido altos ingresos)                 ,EAP ,8652082.8420000,1106.2798130,2002
+inicial del dividendo demográfico                                     ,EAR ,9046119.4360000,1241.8956960,2002
+Asia oriental y el Pacífico                                           ,EAS ,12124579.0500000,3765.7844190,2002
+Europa y Asia central (excluido altos ingresos)                       ,ECA ,4567839.4360000,2026.5460640,2002
+Europa y Asia central                                                 ,ECS ,9734665.2930000,12832.2639600,2002
+Ecuador                                                               ,ECU ,42616.2700000,2172.1018770,2002
+"Egipto, República Árabe de                                            ",EGY ,202779.0124000,1228.9379750,2002
+Zona del Euro                                                         ,EMU ,3466443.2890000,22109.1843100,2002
+Eritrea                                                               ,ERI ,4456.5509000,293.9557909,2002
+España                                                                ,ESP ,397417.3570000,17025.5319800,2002
+Estonia                                                               ,EST ,22955.3596000,5344.8777980,2002
+Etiopía                                                               ,ETH ,186749.5430000,111.9272235,2002
+Unión Europea                                                         ,EUU ,4444497.1980000,18680.5599200,2002
+Frágiles y situaciones de conflicto afectados                         ,FCS ,3595279.2020000,732.6645180,2002
+Finlandia                                                             ,FIN ,83951.8501000,26869.6749000,2002
+Fiji                                                                  ,FJI ,1806.9992000,2260.2583980,2002
+Francia                                                               ,FRA ,557850.1275000,24177.3351700,2002
+Islas Feroe                                                           ,FRO ,0.0000000,26732.7904700,2002
+Micronesia (Estados Federados de)                                     ,FSM ,0.0000000,2265.8805940,2002
+Gabón                                                                 ,GAB ,12656.0146000,4121.9586450,2002
+Reino Unido                                                           ,GBR ,661572.3600000,30056.5862200,2002
+Georgia                                                               ,GEO ,20647.4741000,853.5164537,2002
+Ghana                                                                 ,GHA ,92865.7320000,304.5645608,2002
+Gibraltar                                                             ,GIB ,368.8470750,,2002
+Guinea                                                                ,GIN ,102233.5070000,343.5373419,2002
+Gambia                                                                ,GMB ,3407.8350000,411.7724804,2002
+Guinea-Bissau                                                         ,GNB ,5926.6406000,331.4938718,2002
+Guinea Ecuatorial                                                     ,GNQ ,0.0000000,2744.2081560,2002
+Grecia                                                                ,GRC ,115164.4186000,14110.3133900,2002
+Granada                                                               ,GRD ,479.7281300,5213.8962690,2002
+Groenlandia                                                           ,GRL ,0.0000000,20652.8783300,2002
+Guatemala                                                             ,GTM ,31424.5700000,1710.3414680,2002
+Guam                                                                  ,GUM ,72.2488620,21536.3668800,2002
+Guyana                                                                ,GUY ,5086.4668000,974.9491933,2002
+Ingreso alto                                                          ,HIC ,17378899.1800000,25605.8965800,2002
+"Hong Kong, Región Administrativa Especial                             ",HKG ,45160.4454000,24665.8900000,2002
+Honduras                                                              ,HND ,14868.5855000,1122.0639420,2002
+Países pobres muy endeudados (PPME)                                   ,HPC ,3723537.4660000,341.6989738,2002
+Croacia                                                               ,HRV ,28301.7261000,6233.0536820,2002
+Haití                                                                 ,HTI ,7616.2803000,396.6338208,2002
+Hungría                                                               ,HUN ,74621.9861000,6655.3330090,2002
+Maldivas                                                              ,MDV ,0.0000000,3049.1976160,2002
+Sólo BIRF                                                             ,IBD ,20012543.0600000,1469.0804520,2002
+BIRF y la AIF                                                         ,IBT ,25203985.4100000,1245.4479890,2002
+total de la AIF                                                       ,IDA ,5191442.3500000,442.0052078,2002
+mezcla de la AIF                                                      ,IDB ,1063842.0140000,601.9299140,2002
+Indonesia                                                             ,IDN ,1720445.1700000,900.1775757,2002
+Sólo AIF                                                              ,IDX ,4127600.3360000,359.1548379,2002
+Isla de Man                                                           ,IMN ,0.0000000,24864.4362900,2002
+India                                                                 ,IND ,1917294.6600000,470.9867859,2002
+No clasificado                                                        ,INX ,0.0000000,,2002
+Irlanda                                                               ,IRL ,69094.6851900,32541.0986000,2002
+"Irán, República Islámica del                                          ",IRN ,483378.5050000,1911.6787920,2002
+Iraq                                                                  ,IRQ ,128686.1570000,,2002
+Islandia                                                              ,ISL ,3963.3871000,32326.6382400,2002
+Israel                                                                ,ISR ,69487.8009000,18435.8947600,2002
+Italia                                                                ,ITA ,550782.0690000,22270.1441200,2002
+Jamaica                                                               ,JAM ,12392.1182000,3599.9731720,2002
+Jordania                                                              ,JOR ,18834.6318600,1827.3357530,2002
+Japón                                                                 ,JPN ,1422453.1940000,32289.3505400,2002
+Kazajstán                                                             ,KAZ ,285884.2920000,1658.0307850,2002
+Kenya                                                                 ,KEN ,43784.8660000,389.5427110,2002
+Kirguistán                                                            ,KGZ ,10365.5904000,321.7270332,2002
+Camboya                                                               ,KHM ,108594.6330000,338.9872627,2002
+Kiribati                                                              ,KIR ,44.7938080,826.9452801,2002
+Saint Kitts y Nevis                                                   ,KNA ,0.0000000,11011.3795800,2002
+"Corea, República de                                                   ",KOR ,534839.2830000,13165.0657400,2002
+Kuwait                                                                ,KWT ,62755.2671000,17846.3260600,2002
+América Latina y el Caribe (excluido altos ingresos)                  ,LAC ,3330490.8340000,3567.8652000,2002
+República Democrática Popular Lao                                     ,LAO ,34783.6970000,320.0615179,2002
+Líbano                                                                ,LBN ,17968.8613400,4579.4595930,2002
+Liberia                                                               ,LBR ,2047.1895300,306.4737370,2002
+Libia                                                                 ,LBY ,63328.5875000,3703.0483080,2002
+Santa Lucía                                                           ,LCA ,412.3139800,5646.4565350,2002
+América Latina y el Caribe                                            ,LCN ,3470243.1040000,3753.0974580,2002
+Países menos desarrollados: clasificación de las Naciones Unidas      ,LDC ,3919295.5640000,323.9935950,2002
+Países de ingreso bajo                                                ,LIC ,2905251.3540000,308.6608547,2002
+Liechtenstein                                                         ,LIE ,0.0000000,79359.8046700,2002
+Sri Lanka                                                             ,LKA ,23464.8878000,867.4912137,2002
+Mauritania                                                            ,MRT ,10019.5833000,639.6671224,2002
+Países de ingreso mediano bajo                                        ,LMC ,5743272.1920000,587.1580695,2002
+Ingreso mediano y bajo                                                ,LMY ,24676946.6200000,1191.5954010,2002
+Lesotho                                                               ,LSO ,2941.8226000,382.1901735,2002
+avanzada del dividendo demográfico                                    ,LTE ,12692010.2200000,1796.7161450,2002
+Lituania                                                              ,LTU ,21963.7500000,4146.9879280,2002
+Luxemburgo                                                            ,LUX ,11557.2574000,52930.6411500,2002
+Letonia                                                               ,LVA ,13748.3487000,4125.2100340,2002
+"Región Administrativa Especial de Macao, China                        ",MAC ,0.0000000,16315.3636300,2002
+Isla de San Martín (parte francesa)                                   ,MAF ,0.0000000,,2002
+Marruecos                                                             ,MAR ,53925.2401900,1416.4881580,2002
+Mónaco                                                                ,MCO ,0.0000000,90501.3418000,2002
+República de Moldova                                                  ,MDA ,11279.5311500,570.9726454,2002
+Madagascar                                                            ,MDG ,84561.6560000,319.2164740,2002
+Oriente Medio y Norte de África                                       ,MEA ,1934671.5450000,2953.1347910,2002
+México                                                                ,MEX ,567679.6600000,7593.1377930,2002
+Islas Marshall                                                        ,MHL ,0.0000000,2515.5279740,2002
+ Ingreso mediano                                                      ,MIC ,21771695.2700000,1271.4004590,2002
+Macedonia del Norte                                                   ,MKD ,0.0000000,1961.2037360,2002
+Malí                                                                  ,MLI ,79829.5180000,334.8365206,2002
+Malta                                                                 ,MLT ,2551.8627800,11281.1403100,2002
+Myanmar                                                               ,MMR ,226294.6800000,142.0822652,2002
+Oriente Medio y Norte de África (excluido altos ingresos)             ,MNA ,1226527.4700000,1568.8582420,2002
+Montenegro                                                            ,MNE ,0.0000000,2106.6350680,2002
+Mongolia                                                              ,MNG ,50488.3180000,571.5926395,2002
+Mariana                                                               ,MNP ,9.2226082,21978.7743900,2002
+Mozambique                                                            ,MOZ ,248706.4210000,299.6830541,2002
+Mauricio                                                              ,MUS ,0.0000000,4018.9488970,2002
+Malawi                                                                ,MWI ,14272.7598000,298.4333849,2002
+Malasia                                                               ,MYS ,199983.4810000,4165.7261040,2002
+América del Norte                                                     ,NAC ,7891000.0460000,36666.2703200,2002
+Namibia                                                               ,NAM ,29497.3650000,1769.1759100,2002
+Nueva Caledonia                                                       ,NCL ,0.0000000,,2002
+Níger                                                                 ,NER ,9326.6288000,227.1362787,2002
+Nigeria                                                               ,NGA ,295068.3580000,741.7475112,2002
+Nicaragua                                                             ,NIC ,14719.8320000,1000.9359480,2002
+Países Bajos                                                          ,NLD ,218276.4760000,29204.0398300,2002
+Noruega                                                               ,NOR ,69689.5270000,43084.4724700,2002
+Nepal                                                                 ,NPL ,28915.4190000,244.7208237,2002
+Nauru                                                                 ,NRU ,0.0000000,,2002
+Nueva Zelandia                                                        ,NZL ,77305.4713000,16874.1874900,2002
+Miembros OCDE                                                         ,OED ,17224151.2700000,23405.5616300,2002
+Omán                                                                  ,OMN ,43297.5065000,8626.9840970,2002
+Otros Estados pequeos                                                 ,OSS ,229060.8952000,4528.3234010,2002
+Pakistán                                                              ,PAK ,256954.1350000,534.3038828,2002
+Panamá                                                                ,PAN ,10475.8582000,4126.2415580,2002
+Perú                                                                  ,PER ,51029.1460000,2021.2397400,2002
+Filipinas                                                             ,PHL ,138051.0430000,1036.1593130,2002
+Palau                                                                 ,PLW ,0.0000000,8302.0115090,2002
+Papua Nueva Guinea                                                    ,PNG ,84384.8163000,491.8343081,2002
+Polonia                                                               ,POL ,375643.1780000,5196.9329210,2002
+previa al dividendo demográfico                                       ,PRE ,3788766.8460000,491.4610439,2002
+Puerto Rico                                                           ,PRI ,3031.4801300,18731.4593900,2002
+"Corea, República Popular Democrática de                               ",PRK ,96022.3694000,,2002
+Portugal                                                              ,PRT ,88319.2520000,12875.3207900,2002
+Paraguay                                                              ,PRY ,83003.0280000,1300.8514260,2002
+Ribera Occidental y Gaza                                              ,PSE ,0.0000000,1156.2174730,2002
+Estados pequeos de las Islas del Pacfico                              ,PSS ,7095.2271470,1779.1384990,2002
+posterior al dividendo demográfico                                    ,PST ,16262272.6400000,26354.2771700,2002
+Polinesia Francesa                                                    ,PYF ,0.0000000,,2002
+Qatar                                                                 ,QAT ,46983.9243400,30214.8590100,2002
+Rumania                                                               ,ROU ,135160.3930000,2119.8826730,2002
+Federación de Rusia                                                   ,RUS ,2984844.6600000,2377.5295770,2002
+Rwanda                                                                ,RWA ,4806.2850000,199.0673298,2002
+Asia meridional                                                       ,SAS ,2385992.0130000,469.7121815,2002
+Arabia Saudita                                                        ,SAU ,336300.4940000,8695.4000720,2002
+Sudán                                                                 ,SDN ,516953.9300000,418.2518413,2002
+Senegal                                                               ,SEN ,55038.5580000,656.6227077,2002
+Singapur                                                              ,SGP ,0.0000000,22159.6888600,2002
+Islas Salomón                                                         ,SLB ,4329.7699000,784.6498272,2002
+Sierra Leona                                                          ,SLE ,22463.6343000,252.3962103,2002
+El Salvador                                                           ,SLV ,11242.8073000,2124.1028890,2002
+San Marino                                                            ,SMR ,0.0000000,41464.7464300,2002
+Somalia                                                               ,SOM ,20910.9970000,,2002
+Serbia                                                                ,SRB ,0.0000000,2283.8466850,2002
+África al sur del Sahara (excluido altos ingresos)                    ,SSA ,4514014.0260000,586.8033653,2002
+Sudán del Sur                                                         ,SSD ,0.0000000,,2002
+África al sur del Sahara                                              ,SSF ,4514694.7480000,593.6589486,2002
+Pequeños Estados                                                      ,SST ,264687.4912000,4579.5014540,2002
+Santo Tomé y Príncipe                                                 ,STP ,190.5034430,577.6401566,2002
+Suriname                                                              ,SUR ,3139.5893000,2267.7210660,2002
+República Eslovaca                                                    ,SVK ,49587.2769200,6533.5532130,2002
+Eslovenia                                                             ,SVN ,22342.2576000,11777.1555100,2002
+Suecia                                                                ,SWE ,78855.4430000,29899.1952500,2002
+Eswatini                                                              ,SWZ ,2760.5504000,1405.4418560,2002
+Sint Maarten (Dutch part)                                             ,SXM ,0.0000000,,2002
+Seychelles                                                            ,SYC ,680.7222740,8331.2619970,2002
+República Árabe Siria                                                 ,SYR ,66236.3580000,1263.2551220,2002
+Islas Turcas y Caicos                                                 ,TCA ,0.0000000,15784.6035600,2002
+Chad                                                                  ,TCD ,127184.5690000,220.3759764,2002
+Asia oriental y el Pacífico (BIRF y la AIF)                           ,TEA ,8556009.1240000,1118.1281250,2002
+Europa y Asia central (BIRF y la AIF)                                 ,TEC ,5106944.7330000,2352.5366820,2002
+Togo                                                                  ,TGO ,20990.3645000,326.8556001,2002
+Tailandia                                                             ,THA ,322454.0800000,2096.1879990,2002
+Tayikistán                                                            ,TJK ,10320.5883000,190.0025003,2002
+Turkmenistán                                                          ,TKM ,70833.4890000,967.8901647,2002
+América Latina y el Caribe (BIRF y la AIF)                            ,TLA ,3413817.3260000,3623.6314850,2002
+Timor-Leste                                                           ,TLS ,804.0506700,508.7916881,2002
+Oriente Medio y Norte de África (BIRF y la AIF)                       ,TMN ,1226527.4700000,1573.3119460,2002
+Tonga                                                                 ,TON ,150.1121850,1845.4185950,2002
+Asia meridional (BIRF y la AIF)                                       ,TSA ,2385992.0130000,469.7121815,2002
+África al sur del Sahara (BIRF y la AIF)                              ,TSS ,4514694.7480000,593.6589486,2002
+Trinidad y Tobago                                                     ,TTO ,0.0000000,7053.0708040,2002
+Túnez                                                                 ,TUN ,31568.3504100,2344.4135330,2002
+Turquía                                                               ,TUR ,310061.1480000,3659.9398680,2002
+Tuvalu                                                                ,TUV ,5.0343543,1610.1494620,2002
+Tanzanía                                                              ,TZA ,183662.0810000,411.9723458,2002
+Uganda                                                                ,UGA ,59822.8890000,245.5000794,2002
+Ucrania                                                               ,UKR ,462724.2180000,878.6187489,2002
+Ingreso mediano alto                                                  ,UMC ,16028423.0800000,1882.7739480,2002
+Uruguay                                                               ,URY ,30061.0899000,4090.8992670,2002
+Estados Unidos                                                        ,USA ,6981786.8000000,38023.1611100,2002
+Uzbekistán                                                            ,UZB ,176066.1770000,383.3430680,2002
+San Vicente y las Granadinas                                          ,VCT ,234.3066350,4272.8608980,2002
+Venezuela                                                             ,VEN ,232788.2350000,3700.8795930,2002
+Islas Vírgenes Británicas                                             ,VGB ,0.0000000,,2002
+Islas Vírgenes (EE.UU.)                                               ,VIR ,44.5251200,30126.2556400,2002
+Viet Nam                                                              ,VNM ,187715.0280000,430.0528671,2002
+Vanuatu                                                               ,VUT ,443.5337300,1354.1861690,2002
+Mundo                                                                 ,WLD ,43070574.6400000,5533.4252940,2002
+Samoa                                                                 ,WSM ,314.9839700,1633.0354320,2002
+Kosovo                                                                ,XKX ,0.0000000,1413.5325870,2002
+"Yemen, Rep. del                                                       ",YEM ,26580.1033000,579.8529205,2002
+Sudáfrica                                                             ,ZAF ,434071.0750000,2502.2770050,2002
+Zambia                                                                ,ZMB ,300362.2010000,382.2421724,2002
+Zimbabwe                                                              ,ZWE ,50281.8950000,530.5305794,2002
