@@ -36,7 +36,7 @@ print(datosTotales)
 
 #co2
 #graficando solo datos numéricos
-#sns.jointplot(x='anio', y='co2', data=JuntosPaises,sizes=(40, 400), alpha=.5, palette="muted",hue='countryname', height=5)
+#sns.jointplot(x='anio', y='co2', data=JuntosPaises,sizes=(20, 200), alpha=.5, palette="muted",hue='countryname', height=5)
 
 #gdp
 #sns.jointplot(x='anio', y='gdp', data=JuntosPaises,sizes=(40, 400), alpha=.5, palette="muted",hue='countryname', height=6)
@@ -100,6 +100,25 @@ print(datosTotales)
 #sns.lineplot(x="anio",y="co2",data=OOceania,label="CO2 Oceania")
 
 #------------------------------
+
+#Por continentes de co2
+#sns.set_theme( style='whitegrid')
+#f, ax=plt.subplots(figsize=(150,100))
+#AAmerica = America.sort_values("gdp",ascending=False)
+#EEuropa  = Europa.sort_values("gdp",ascending=False)
+#AAsia  = Asia.sort_values("gdp",ascending=False)
+#AAfrica  = Africa.sort_values("gdp",ascending=False)
+#OOceania  = Oceania.sort_values("gdp",ascending=False)
+#PM  = PaisMex.sort_values("gdp",ascending=False)
+
+#sns.lineplot(x="anio",y="gdp",data=EEuropa,label="PIB Europa")
+#Se crea el segundo subset a guardar en el subplot
+#sns.lineplot(x="anio",y="gdp",data=AAmerica,label="PIB America")
+#sns.lineplot(x="anio",y="gdp",data=AAsia,label="PIB Asia")
+#sns.lineplot(x="anio",y="gdp",data=AAfrica,label="PIB Africa")
+#sns.lineplot(x="anio",y="gdp",data=OOceania,label="PIB Oceania")
+
+#-----------------------------
 
 
 plt.show()
