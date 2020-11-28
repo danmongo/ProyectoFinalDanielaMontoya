@@ -17,6 +17,7 @@ Code: De todos los códigos SQL y en Python necesarios para organizar, filtrar y
 Gráficas: Vienen las fotos de las gráficas hechas para leer los datos.
 TablasAlternas: Todas las tablas para entender, analizar y organizar los datos hechas en SQL.
 TablaFinal: Las tablas finales utilizadas para graficar y donde se encuentran ya todos los datos.
+TrabajoEscrito: Se encuentra el Trabajo Escrito.
 BaseDeDatosOriginal: De donde salieron los datos originales para graficar.
 
 #Los datos se sacaron de la Base de Datos Del Banco Mundial como PIB per cápita en (US$ dólares actuales) y Emisiones de gases de efecto invernadero (kt CO2)
