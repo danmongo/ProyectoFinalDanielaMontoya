@@ -1,5 +1,5 @@
 # ProyectoFinalDanielaMontoya
-#Este es un trabajo, en el cual se quiere medir la comparación e influencia del PIB hacia las emisiones de gases de efeto invernadero de 1970 al 2012 en cada país, enfocándonos en os siguientes diez países:
+#Este es un trabajo, en el cual se quiere medir la comparación e influencia del PIB hacia las emisiones de gases de efecto invernadero de 1970 al 2012 en cada país, enfocándonos en os siguientes diez países:
 
 -	Alemania
 -	Bangladesh
